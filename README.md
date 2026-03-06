@@ -55,4 +55,5 @@ A preliminary analysis of the first 8 days of Rubin Observatory LSST alert strea
 
 ## Preprint
 
-Sakidja, R. (2026). *Light Curve Asymmetry in Rubin LSST Variable Stars: Candidate Evidence for T⁰ⁱ Momentum Flux Coupling in the Low-Velocity Galactic Regime.* Zenodo preprint. [link pending]
+Sakidja, R. (2026). *Light Curve Asymmetry in Rubin LSST Variable Stars: Candidate Evidence for T⁰ⁱ Momentum Flux Coupling in the Low-Velocity Galactic Regime.* Zenodo preprint. https://doi.org/10.5281/zenodo.18887464
+
