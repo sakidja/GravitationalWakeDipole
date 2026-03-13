@@ -26,7 +26,7 @@ The apparent convergence of λ with simulation resolution is not convergence tow
 
 ## Preprint
 
-Sakidja, R. (2026). *Light Curve Asymmetry in Rubin LSST Variable Stars: Candidate Evidence for T⁰ⁱ Momentum Flux Coupling in the Low-Velocity Galactic Regime.* Zenodo. https://doi.org/10.5281/zenodo.17959245
+Sakidja, R. (2026). *Light Curve Asymmetry in Rubin LSST Variable Stars: Candidate Evidence for T⁰ⁱ Momentum Flux Coupling in the Low-Velocity Galactic Regime.* Zenodo. https://doi.org/10.5281/zenodo.18895222
 
 ## Data
 
