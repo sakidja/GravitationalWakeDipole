@@ -23,7 +23,8 @@ A.8 extends the argument to the Vlasov–Poisson precedent: plasma physics ident
 
 > Supplementary Appendix A is available in this repository.
 
-**[Supplementary Appendix B](https://github.com/sakidja/GravitationalWakeDipole/blob/main/Rubin_Supplementary_Appendix_B.pdf)** — Full derivation of the x-axis placement for the three modern data points in Figure 4: Benson (2017), Li et al. (2022), and Shin-Uchuu (Ishiyama et al. 2021). All points are expressed in units of mean background density at z=0 for consistency with the Barnes & Efstathiou (1987) axis convention.
+## Supplementary Appendix B
+Full derivation of the x-axis placement for the three modern data points in Figure 4: Benson (2017), Li et al. (2022), and Shin-Uchuu (Ishiyama et al. 2021). All points are expressed in units of mean background density at z=0 for consistency with the Barnes & Efstathiou (1987) axis convention.
 
 | Dataset | x-axis (× mean) | Method |
 |---|---|---|
