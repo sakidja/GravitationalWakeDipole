@@ -27,10 +27,12 @@ A.8 extends the argument to the Vlasov–Poisson precedent: plasma physics ident
 Full derivation of the x-axis placement for the three modern data points in Figure 4: Benson (2017), Li et al. (2022), and Shin-Uchuu (Ishiyama et al. 2021). All points are expressed in units of mean background density at z=0 for consistency with the Barnes & Efstathiou (1987) axis convention.
 
 | Dataset | x-axis (× mean) | Method |
-|---|---|---|
-| Benson (2017) | 712 | FoF b=0.2 → 178/Ω_m, Millennium cosmology |
+|---------|-----------------|--------|
+| Barnes & Efstathiou (1987) | 8–512 | Direct from Table 4, units of mean density ρ̅ |
+| MDPL2 | 647 | 200 × E²(z=0) / Ω_m — Δ_200c, Planck 2015 (Ω_m=0.3089) |
+| Benson (2017) | 712 | FoF b=0.2 → 178/Ω_m, Millennium cosmology (Ω_m=0.25) |
+| Shin-Uchuu (2021) | 24,412 | 200 × E²(z=3.93) / Ω_m — Δ_200c, Planck 2015 (Ω_m=0.3089) |
 | Li et al. (2022) | 25,000 | 200 × (1+z)³ — Δ_200 mean density definition at z=4, cosmology-independent |
-| Shin-Uchuu (2021) | 24,412 | 200 × E²(z=3.93) / Ω_m — Δ_200c, Planck 2015 |
 
 No free parameters enter the placement of any data point. The Shin-Uchuu derivation is based on the script `lambda_conc.py`, which reads the halo catalog directly and is available in this repository.
 
