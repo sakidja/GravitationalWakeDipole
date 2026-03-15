@@ -28,7 +28,7 @@ Full derivation of the x-axis placement for the three modern data points in Figu
 
 | Dataset | x-axis (× mean) | Method |
 |---|---|---|
-| Benson (2017) | 667 | FoF b=0.2 → 178/Ω_m, Millennium cosmology |
+| Benson (2017) | 712 | FoF b=0.2 → 178/Ω_m, Millennium cosmology |
 | Li et al. (2022) | 25,000 | 200 × (1+z)³ — Δ_200 mean density definition at z=4, cosmology-independent |
 | Shin-Uchuu (2021) | 24,412 | 200 × E²(z=3.93) / Ω_m — Δ_200c, Planck 2015 |
 
