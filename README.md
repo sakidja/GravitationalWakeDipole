@@ -29,7 +29,7 @@ Full derivation of the x-axis placement for the three modern data points in Figu
 | Dataset | x-axis (× mean) | λ | Method |
 |---------|-----------------|-----|--------|
 | Barnes & Efstathiou (1987) | 8–512 | 0.030–0.058 | Direct from Table 4, units of mean density ρ̅ |
-| MDPL2 | 647 | 0.0416 (mean) | **200 × E²(z=0) / Ω_m — Δ_200c, Planck 2015 (Ω_m=0.3089) |
+| MDPL2 | 647 | 0.0416 (mean) | 200 × E²(z=0) / Ω_m — Δ_200c, Planck 2015 (Ω_m=0.3089) |
 | Benson (2017) | 712 | 0.0369 (median) | FoF b=0.2 → 178/Ω_m, Millennium cosmology (Ω_m=0.25) |
 | Shin-Uchuu (2021) | 24,412 | 0.0316 (median) | 200 × E²(z=3.93) / Ω_m — Δ_200c, Planck 2015 (Ω_m=0.3089) |
 | Li et al. (2022) | 25,000 | 0.0255 (DM-only) | 200 × (1+z)³ — Δ_200 mean density definition at z=4, cosmology-independent |
