@@ -15,13 +15,18 @@ Extends the theoretical interpretation in three directions:
 - The per-star coupling constant (g = 0.0289 per km/s) is consistent within 16% with the orbit-integrated coupling constant from the SPARC companion paper, connecting the same T⁰ⁱ proportionality from pc to kpc scales with no free parameters.
 
 ## Supplementary Appendix A
-
 Formal mathematical proof that E[λ] → 0 in the continuum limit. The proof demonstrates that any FFT Poisson solver is structurally incapable of producing net torque — not as an approximation, but as an algebraic identity: the force direction at each Fourier mode is locked to **k**, and **k** × **k** ≡ 0 exactly.
 
 The apparent convergence of λ with simulation resolution is not convergence toward a physical answer. It is convergence toward the limit the identity guarantees. Resolution and erasure are the same event.
 
-> Supplementary Appendix A (formal proof that E[λ] → 0, to be incorporated in v3) is available in this repository.
+A.8 extends the argument to the Vlasov–Poisson precedent: plasma physics identified the same structural limitation in the 1930s and resolved it by pivoting to the full phase space distribution f(x,v,t). The FFT Poisson solver does not reach even the level of the electrostatic Vlasov–Poisson system — it discards T⁰ⁱ and gravitational Landau damping in the single step ρ = ∫f d³v.
 
+> Supplementary Appendix A is available in this repository.
+
+## Supplementary Appendix B
+Full derivation of the x-axis placement for the two modern data points in Figure 4: Li et al. (2022) and Shin-Uchuu (Ishiyama et al. 2021). Both points are expressed in units of mean background density at z=0 for consistency with the Barnes & Efstathiou (1987) axis convention, using the formula ρ_crit = 200 × E²(z) / Ω_m with Planck 2015 cosmology. No free parameters enter the placement of any data point. The Shin-Uchuu derivation is based on the script `lambda_conc.py`, which reads the halo catalog directly and is available in this repository.
+
+> Supplementary Appendix B is available in this repository.
 ---
 
 ## Preprint
