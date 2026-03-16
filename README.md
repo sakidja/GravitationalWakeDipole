@@ -48,4 +48,4 @@ Alert stream data accessed via Lasair broker using filter `GravitationalWakeDipo
 
 ## Status
 
-Preliminary — Not Peer Reviewed. Version 3 pending new Rubin LSST data.
+Preliminary — Not Peer Reviewed.
