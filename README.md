@@ -41,7 +41,7 @@ No free parameters enter the placement of any data point. The Shin-Uchuu derivat
 
 ## Preprint
 
-Sakidja, R. (2026). *Light Curve Asymmetry in Rubin LSST Variable Stars: Candidate Evidence for T⁰ⁱ Momentum Flux Coupling in the Low-Velocity Galactic Regime.* Zenodo. https://doi.org/10.5281/zenodo.18895222
+Sakidja, R. (2026). *Light Curve Asymmetry in Rubin LSST Variable Stars: Candidate Evidence for T⁰ⁱ Momentum Flux Coupling in the Low-Velocity Galactic Regime.* Zenodo. https://doi.org/10.5281/zenodo.19300729
 
 ## Data
 
