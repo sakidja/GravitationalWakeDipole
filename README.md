@@ -6,13 +6,14 @@ A preliminary analysis of the first 8 days of Rubin Observatory LSST alert strea
 
 ---
 
-## Version 2
+## Version 4
 
-Extends the theoretical interpretation in three directions:
+Extends the theoretical interpretation in four directions:
 
 - The mechanism by which FFT-based N-body solvers filter ∇·T⁰ⁱ below the force softening scale is made explicit.
-- The halo spin parameter λ(ρ_crit) falling monotonically across four orders of magnitude is identified as the accumulated numerical signature of this filtering.
+The halo spin parameter λ(ρ_crit) falling monotonically across four orders of magnitude is identified as the accumulated numerical signature of this filtering.
 - The per-star coupling constant (g = 0.0289 per km/s) is consistent within 16% with the orbit-integrated coupling constant from the SPARC companion paper, connecting the same T⁰ⁱ proportionality from pc to kpc scales with no free parameters.
+- The radio continuum dipole anomaly, now exceeding 5σ across independent surveys (Böhme et al. 2025, PRL), is identified as a structural consequence of the same T⁰ⁱ erasure. Radio source counts couple to D(T⁰⁰) + D(T⁰ⁱ) while CMB temperature maps couple to D(T⁰⁰) only. The radio dipole anomaly and the missing mass problem may share the same root.
 
 ## Supplementary Appendix A
 Formal mathematical proof that E[λ] → 0 in the continuum limit. The proof demonstrates that any FFT Poisson solver is structurally incapable of producing net torque — not as an approximation, but as an algebraic identity: the force direction at each Fourier mode is locked to **k**, and **k** × **k** ≡ 0 exactly.
